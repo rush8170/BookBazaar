@@ -1,0 +1,163 @@
+body {margin-top:50px;margin-left:5%;margin-right:5%;font-family:"Open sans";background: #F5F8F9;overflow-x:hidden;}
+#myCarousel {
+	margin-left: 0px;
+	margin-top: 20px;
+
+}
+.cardview {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.logo {
+	height:43px;
+	width: 50px;
+}
+.hel {
+	background-color: #FE3636;
+	height:90px;
+  margin-right: 0px;
+}
+.fro {
+	display: inline-block;
+	margin-right: 350px;
+	padding-right: 0px;
+}
+.fr {
+	display: inline-block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.logoDiv{
+	max-width: 100px;
+}
+#butt {
+	padding-left:60px;
+}
+.but {
+	background-color: black;
+}
+
+#searchBar {
+	width:400px;
+	margin-left: 350px;
+	margin-top: 5px;
+	margin-bottom: 40px;
+}
+#foot {
+	background-color: black;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+   text-decoration-color: #FE3636;
+}
+#tex {
+	color:#FE3636;
+}
+#category {
+	padding: 20px;
+	display: inline-block;
+    font-weight: 400;
+    border-top: 1px solid #ccc;
+    padding-right: 0px;
+}
+#row{
+  margin-right: 0px;
+}
+#category li {
+    display: block;
+    font-weight: 400;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    margin-left: -40px;
+}
+#category ul {
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+    border: 1px solid #ccc;
+    background: #fff;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.book-block {
+    margin-top: 20px;
+    padding: 5px;
+    background: #fff;
+    border: 1px solid #DEEAEE;
+    border-radius: 10px;
+}
+.book {
+  padding-top: 40px;
+}
+#spa {
+  background-color: #ff9933 ;
+  font-size: 14px;
+  font-weight: 300;
+  border-radius: 5px;
+  color: #fff;
+  padding: 2px;
+  text-align: center;
+}
+.price {
+  font-weight: bold;
+  text-align: center;
+
+}
+.tag{
+    display: inline;
+    float: left;
+    padding: 2px 5px;
+    width: auto;
+    background: #90e137;
+    color: #fff;
+    height: 23px;
+    margin-top: 3px;
+}
+.tag-side {
+  margin-bottom: 10px;
+    display: inline;
+    float: left;
+    padding: 0px;
+
+}
+#sp {
+  text-align: center;
+}
+#offer img {margin-top:20px;margin-bottom:10px;border:1px solid #DEEAEE; }
+.title {
+  margin-top: 100px;
+}
+.Info{
+  display: block;
+  margin: auto;
+  color: #FE3636;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.footerhr{
+  border: 1px solid white;
+  width: 60%;
+}
+.centerLogo{
+  margin-top: 10px;
+  text-align: center;
+}
+.text-center{
+  padding-right:0px;
+  padding-left: 0px;
+}
